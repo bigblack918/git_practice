@@ -1,1 +1,5 @@
 start a=1
+change a=2
+change by dev
+change by fun5
+a=3
